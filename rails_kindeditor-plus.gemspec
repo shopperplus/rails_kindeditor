@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "rails_kindeditor/version"
 
 Gem::Specification.new do |s|
-  s.name        = "rails_kindeditor"
+  s.name        = "rails_kindeditor-plus"
   s.version     = RailsKindeditor::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = "Macrow"
